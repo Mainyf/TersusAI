@@ -12,4 +12,4 @@
 只是我们的技术在不断进步，需要更多灵活多样的处理模式。  
 
 ## 更多详情
-> https://wiki.ptms.ink/index.php?title=TersusAI
+> [TersusAI - 普特莫斯维基 — Purtmars Wikipedia](https://wiki.ptms.ink/index.php?title=TersusAI)
