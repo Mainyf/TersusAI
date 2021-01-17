@@ -4,8 +4,8 @@ plugins {
     id 'org.jetbrains.kotlin.jvm' version '1.4.0'
 }
 
-group = 'io.izzel.taboolib.example'
-version = '1.0.0'
+group = 'ink.ptms.tersusai'
+version = '1.0.0 RELEASE'
 
 sourceCompatibility = '1.8'
 targetCompatibility = '1.8'
@@ -23,6 +23,10 @@ repositories {
 
 dependencies {
     compile 'ink.ptms.core:v11600:11600:all'
+    compile 'ink.ptms.core:v10800:10800:all'
+    compile 'ink.ptms.core:v10900:10900:all'
+    compile 'ink.ptms.core:v11300:11300:all'
+    compile 'ink.ptms.core:v11400:11400:all'
     compile 'org.jetbrains.kotlin:kotlin-stdlib'
     compileOnly fileTree(dir: 'libs', includes: ['*.jar'])
 }
